@@ -1,7 +1,7 @@
 ## Hi there Rabbit937 👋 
 <img src="https://wakatime.com/badge/github/Rabbit937/Rabbit937.svg"/>
 
-- 😄 一个切图的
+- 😄 一个卑微的切图仔
 - 💬 [联系我](mailto:hackrabbit@qq.com)
 
 <details>
