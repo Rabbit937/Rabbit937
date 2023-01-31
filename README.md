@@ -9,7 +9,7 @@
     My code statistics.
   </summary>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbit937&&hide_title=true&layout=compact&langs_count=10" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbit937&&hide_title=true&layout=compact&langs_count=10" />
   <div>
 </details>
 
@@ -17,6 +17,6 @@
 ## github's overview
 
 <a href="https://github.com/Rabbit937">
-  <img height="225" src="https://github-readme-stats.vercel.app/api?username=Rabbit937"/>
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbit937"/>
+  <img height="220" src="https://github-readme-stats.vercel.app/api?username=Rabbit937"/>
+  <img height="220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbit937"/>
 </a>
