@@ -1,7 +1,7 @@
 ## Hi there Rabbit937 👋 
 <img src="https://wakatime.com/badge/github/Rabbit937/Rabbit937.svg"/>
 
-- 😄 一个不务正业的切图仔
+- 😄 一个切图的
 - 💬 [联系我](mailto:hackrabbit@qq.com)
 
 <details>
@@ -9,17 +9,14 @@
     My code statistics.
   </summary>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rabbit937&hide_title=true&layout=compact&langs_count=10" />
-    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbit937&layout=compact" />
   <div>
 </details>
 
 
 ## github's overview
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbit937&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbit937&hide=javascript,html" />
+<a href="https://github.com/Rabbit937">
+  <img height="225" src="https://github-readme-stats.vercel.app/api?username=Rabbit937"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbit937"/>
 </a>
