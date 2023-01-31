@@ -18,5 +18,5 @@
 
 <a href="https://github.com/Rabbit937">
   <img height="220" src="https://github-readme-stats.vercel.app/api?username=Rabbit937"/>
-  <img height="220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbit937"/>
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbit937"/>
 </a>
