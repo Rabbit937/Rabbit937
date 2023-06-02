@@ -1,9 +1,6 @@
 ## Hi there Rabbit937 👋 
 <img src="https://wakatime.com/badge/user/4c35345b-b53a-4a6f-a04c-444d3a3a39a6.svg"/>
 
-- 😄 一个卑微的切图仔
-- 💬 [联系我](mailto:hackrabbit@qq.com)
-
 <details>
   <summary>
     My code statistics.
